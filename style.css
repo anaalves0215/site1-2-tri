@@ -61,11 +61,10 @@ text-align: center;
 }
 
 .txt2{
-  text-align: center;
+    text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  border-color: black;
-  border-style: inset;
-  border-width: 15px;
+  font: size 2px;
+
   
   
 }
